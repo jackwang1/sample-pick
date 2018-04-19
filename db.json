@@ -23,5 +23,8 @@
     "carrier": "Teleportation",
     "destCity": "Somewhere",
     "weight": 999
-  }]
+  }],
+  "status": {
+    "response": "Success"
+  }
 }
